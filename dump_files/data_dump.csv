@@ -1,0 +1,15 @@
+id,first name,last name,employee id,correspondence add,permanent add,email id,mobile number,emergency contact,gender ,age,Employee type,dob,doj
+1,Prateek,Chaurasia,51592123,Noida,Nainital,chaurasia.p@hcl.com,9266685425,9266685425,male,30,Full-time,28-10-1986,22-01-2015
+2,Vikaschandra,Soni,51542968,Noida,Jhansi,soni.vikaschandra@hcl.com,9254625872,9254625872,male,30,Full-time,30-09-1986,14-04-2015
+3,Abhinav,Singh,51592823,Noida,Banaras,chaurasia.p@hcl.com,9266685425,9266685425,male,30,Full-time,28-10-1986,22-01-2015
+4,Mayank,Pawar,52592823,Noida,Delhi,soni.vikaschandra@hcl.com,9254625872,9254625872,male,30,Full-time,30-09-1986,14-04-2015
+5,Sagar,Sah,51562123,Noida,Lucknow,chaurasia.p@hcl.com,9266685425,9266685425,male,30,Full-time,28-10-1986,22-01-2015
+6,Divyansh,Tiwari,53592823,Noida,Bareilley,soni.vikaschandra@hcl.com,9254625872,9254625872,male,30,Full-time,30-09-1986,14-04-2015
+7,Raj,Varshney,53592126,Noida,Meerut,chaurasia.p@hcl.com,9266685425,9266685425,male,30,Full-time,28-10-1986,22-01-2015
+8,Amit,Yadav,53592126,Noida,Roorkee,soni.vikaschandra@hcl.com,9254625872,9254625872,male,30,Full-time,30-09-1986,14-04-2015
+9,Sanjay,Mishra,55562123,Noida,Haldwani,chaurasia.p@hcl.com,9266685425,9266685425,male,30,Full-time,28-10-1986,22-01-2015
+10,Sudhanshu,Rawat,52992123,Noida,Dehradun,soni.vikaschandra@hcl.com,9254625872,9254625872,male,30,Full-time,30-09-1986,14-04-2015
+11,Gaurav,Aggarwal,57522123,Noida,Kanpur,chaurasia.p@hcl.com,9266685425,9266685425,male,30,Full-time,28-10-1986,22-01-2015
+12,Subham,Garg,57522223,Noida,Allahabad,soni.vikaschandra@hcl.com,9254625872,9254625872,male,30,Full-time,30-09-1986,14-04-2015
+13,Surbhi,Aggarwal,51592423,Noida,Patna,chaurasia.p@hcl.com,9266685425,9266685425,male,30,Full-time,28-10-1986,22-01-2015
+14,Nidhi,Chaudhary,60222123,Noida,Ambala,soni.vikaschandra@hcl.com,9254625872,9254625872,male,30,Full-time,30-09-1986,14-04-2015

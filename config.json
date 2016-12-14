@@ -1,0 +1,19 @@
+{
+	"FILE_PATH" = "/home/pydev/envs/etl/extractExcel/dump_files/",
+	"DB_COLUMN_MAPPING" = {
+		"first name" = "first_name",
+		"last name" = "last_name",
+		"employee id" = "emp_id",
+		"correspondence add" = "add_cor",
+		"permanent add" = "add_perm",
+		"email id" = "mail_id",
+		"mobile number" = "cellphone",
+		"emergency contact" = "emergency_number",
+		"gender" = "gender",
+		"age" = "age",
+		"employee type" = "employee_type",
+		"date of birth" = "dob",
+		"date of joining" = "doj"
+		},
+	"ERROR_LOG_PATH" = "/home/pydev/envs/etl/extractExcel/error/"
+}
