@@ -1,19 +1,45 @@
 {
 	"FILE_DIR": "/home/pydev/envs/etl/extractExcel/dump_files/",
 	"DB_COLUMN_MAPPING": {
-		"first name": "first_name",
-		"last name" : "last_name",
-		"employee id": "emp_id",
-		"correspondence add": "add_cor",
-		"permanent add": "add_perm",
-		"email id" : "mail_id",
-		"mobile number" : "cellphone",
-		"emergency contact" : "emergency_number",
-		"gender" : "gender",
-		"age" : "age",
-		"employee type" : "employee_type",
-		"date of birth" : "dob",
-		"date of joining" : "doj"
+		"first name": {"column name": "first_name",
+						"data type": "varchar"
+						}
+		"last name": {"column name": "last_name",
+						"data type": "varchar"
+						}
+		"employee id": {"column name": "emp_id",
+						"data type": "integer"
+						}
+		"correspondence add": {"column name": "add_cor",
+						"data type": "varchar"
+						}
+		"permanent add": {"column name": "add_perm",
+						"data type": "varchar"
+						}
+		"email id": {"column name": "mail_id",
+						"data type": "varchar"
+					}
+		"mobile number": {"column name": "cellphone",
+						"data type": "integer"
+						}
+		"emergency contact": {"column name": "emergency_number",
+						"data type": "integer"
+						}
+		"gender": {"column name": "gender",
+					"data type": "varchar"
+					}
+		"age": {"column name": "age",
+				"data type": "integer"
+				}
+		"employee type": {"column name": "employee_type",
+					"data type": "varchar"
+					}
+		"date of birth": {"column name": "dob",
+					"data type": "date"
+					}
+		"date of joining": {"column name": "doj",
+					"data type": "date"
+					}
 		},
 	"ERROR_LOG_DIR" : "/home/pydev/envs/etl/extractExcel/error_logs/"
 }
